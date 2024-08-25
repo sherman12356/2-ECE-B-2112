@@ -1,0 +1,3 @@
+a=input("put your wor here: ") 
+.join(sorted(a))
+print(a)
